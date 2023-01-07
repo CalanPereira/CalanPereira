@@ -43,3 +43,5 @@
 
 <p>&nbsp;<img align="center" width="1000" height="250" src="https://github-readme-stats.vercel.app/api?username=CalanPereira&show_icons=true&locale=en&theme=tokyonight" alt="CalanPereira" /></p>
 
+<img align="right" alt="Coding" width="1000" height="280" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F26gYBoUTXIKeHz7LG%2Fgiphy.gif&f=1&nofb=1&ipt=2b359c4dbe4f4eedffa7af957eed816f42d5a0e62d17078d85fdaffea49294a7&ipo=images">
+
