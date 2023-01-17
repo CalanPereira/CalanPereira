@@ -40,5 +40,5 @@
 <p><img align="right" width="1000" height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=CalanPereira&&theme=tokyonight" alt="CalanPereira" /></p>
 
 
-<img align="right" alt="Coding" width="1000" height="480" src="">
+<img align="right" alt="Coding" width="1000" height="480" src="1660733820923.gif">
 
